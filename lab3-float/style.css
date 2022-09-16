@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+}
+
+body {
+    text-align: center;  
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 4em;
+}
+
+#container {
+    margin: 30px auto;
+    height: 800px;
+    width: 60%;
+}
+
+#header {
+    background-color: #73a7d7;
+    height: 100px;
+    width: 100%;
+}
+
+#navigation {
+    background-color: #f0ccf2;
+    height: 70px;
+    width: 100%;
+}
+
+#left-block {
+    background-color: #bbe48c;
+    height: 315px;
+    width: 60%;
+    float: left;
+}
+
+#right-block {
+    background-color: #93b071;
+    height: 315px;
+    width: 40%;
+    float: right;
+}
